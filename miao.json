@@ -147,6 +147,14 @@
       "categories": []
     },
     {
+      "key": "饭团资源",
+      "name": "饭团资源",
+      "type": 0,
+      "api": "http://fantuan.wkfile.com/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "categories": []
+    },
+    {
       "key": "88资源",
       "name": "88资源",
       "type": 0,
@@ -740,6 +748,18 @@
     }
   ],
   "parses": [
+    {
+      "name": "1717",
+      "url": "http://www.1717yun.com/jx/ty.php?url="
+    },
+    {
+      "name": "OK",
+      "url": "http://okjx.cc/?url="
+    },
+    {
+      "name": "七哥",
+      "url": "http://jx.mmkv.cn/tv.php?url="
+    },
     {
       "name": "纯净解析",
       "url": "https://z1.m1907.cn/?jx="
