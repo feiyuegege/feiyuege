@@ -29,59 +29,6 @@
       "type": 0,
       "api": "http://zy.itono.cn/inc/api.php",
       "playUrl": ""
-    }, 
-    {
-      "key": "快播云",
-      "name": "快播云",
-      "type": 0,
-      "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml/",
-      "playUrl": "",
-      "categories": []
-    },
-    {
-      "key": "天空资源",
-      "name": "天空资源",
-      "type": 0,
-      "api": "https://caiji.tiankongapi.com/inc/api.php",
-      "playUrl": ""
-    },
-    {
-      "key": "番茄资源",
-      "name": "番茄资源",
-      "type": 0,
-      "api": "http://api.fqzy.cc/api.php/provide/vod/at/xml",
-      "playUrl": "https://jx.fqzy.cc/jx.php?url="
-    },
-    {
-      "key": "柚子资源",
-      "name": "柚子资源",
-      "type": 0,
-      "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "categories": []
-    },
-    {
-      "key": "百度资源",
-      "name": "百度资源",
-      "type": 0,
-      "api": "https://cj.apibdzy.com/inc/api.php",
-      "playUrl": ""
-    },
-    {
-      "key": "穿梭资源",
-      "name": "穿梭资源",
-      "type": 0,
-      "api": "http://ok.888hyk.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "categories": []
-    },
-    {
-      "key": "安逸影院",
-      "name": "安逸影院",
-      "type": 0,
-      "api": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "categories": []
     }
     
   ],
