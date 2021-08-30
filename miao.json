@@ -8,38 +8,6 @@
       "playUrl": "",
       "categories": []
     },
-   {
-      "key": "HG",
-      "name": "HG",
-      "type": 0,
-      "api": "http://hgyx.vip/api.php/v1.vod/types",
-      "playUrl": "",
-      "categories": []
-    },
-   {
-      "key": "追剧达人",
-      "name": "追剧达人",
-      "type": 0,
-      "api": "http://vipmv.tv/api.php/app/nav?token=",
-      "playUrl": "",
-      "categories": []
-    },
-   {
-      "key": "追剧猫",
-      "name": "追剧猫",
-      "type": 0,
-      "api": "http://app.xkvideo.design/api.php/v1.vod/types",
-      "playUrl": "",
-      "categories": []
-    },
-   {
-      "key": "新影视工厂",
-      "name": "新影视工厂",
-      "type": 0,
-      "api": "https://www.ysgc.cc/api.php/app/nav?token=",
-      "playUrl": "",
-      "categories": []
-    },
     {
       "key": "饭团资源",
       "name": "饭团资源",
@@ -651,7 +619,7 @@
       "url": "https://json.m3u8.tv:7788/json.php?url="
     },
     {
-      "name": "JON.vodjx",
+      "name": "JSONvodjx",
       "url": "https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url="
     },
     {
