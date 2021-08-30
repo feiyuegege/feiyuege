@@ -9,10 +9,34 @@
       "categories": []
     },
    {
-      "key": "蘑菇资源",
-      "name": "蘑菇资源",
+      "key": "JSONHG",
+      "name": "JSONHG",
       "type": 0,
-      "api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml/",
+      "api": "http://hgyx.vip/api.php/v1.vod/types",
+      "playUrl": "",
+      "categories": []
+    },
+   {
+      "key": "JSON追剧达人",
+      "name": "JSON追剧达人",
+      "type": 0,
+      "api": "http://vipmv.tv/api.php/app/nav?token=",
+      "playUrl": "",
+      "categories": []
+    },
+   {
+      "key": "JSON追剧猫",
+      "name": "JSON追剧猫",
+      "type": 0,
+      "api": "http://app.xkvideo.design/api.php/v1.vod/types",
+      "playUrl": "",
+      "categories": []
+    },
+   {
+      "key": "JSON新影视工厂",
+      "name": "JSON新影视工厂",
+      "type": 0,
+      "api": "https://www.ysgc.cc/api.php/app/nav?token=",
       "playUrl": "",
       "categories": []
     },
@@ -615,6 +639,22 @@
       "url": "http://jx.mmkv.cn/tv.php?url="
     },
     {
+      "name": "暮光",
+      "url": "https://muguang.mgtv.com.muguangys.com/jiexi.php?url="
+    },
+    {
+      "name": "parwix",
+      "url": "https://jx.parwix.com:4433/player/?url="
+    },
+    {
+      "name": "JSONm3u8",
+      "url": "https://json.m3u8.tv:7788/json.php?url="
+    },
+    {
+      "name": "JON.vodjx",
+      "url": "https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url="
+    },
+    {
       "name": "纯净解析",
       "url": "https://z1.m1907.cn/?jx="
     },
@@ -729,10 +769,6 @@
     {
       "name": "磨菇",
       "url": "https://jx.wzslw.cn/?url="
-    },
-    {
-      "name": "OK",
-      "url": "https://okjx.cc/?url="
     },
     {
       "name": "维多",
