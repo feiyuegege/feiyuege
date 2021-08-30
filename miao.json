@@ -9,32 +9,32 @@
       "categories": []
     },
    {
-      "key": "JSONHG",
-      "name": "JSONHG",
+      "key": "HG",
+      "name": "HG",
       "type": 0,
       "api": "http://hgyx.vip/api.php/v1.vod/types",
       "playUrl": "",
       "categories": []
     },
    {
-      "key": "JSON追剧达人",
-      "name": "JSON追剧达人",
+      "key": "追剧达人",
+      "name": "追剧达人",
       "type": 0,
       "api": "http://vipmv.tv/api.php/app/nav?token=",
       "playUrl": "",
       "categories": []
     },
    {
-      "key": "JSON追剧猫",
-      "name": "JSON追剧猫",
+      "key": "追剧猫",
+      "name": "追剧猫",
       "type": 0,
       "api": "http://app.xkvideo.design/api.php/v1.vod/types",
       "playUrl": "",
       "categories": []
     },
    {
-      "key": "JSON新影视工厂",
-      "name": "JSON新影视工厂",
+      "key": "新影视工厂",
+      "name": "新影视工厂",
       "type": 0,
       "api": "https://www.ysgc.cc/api.php/app/nav?token=",
       "playUrl": "",
