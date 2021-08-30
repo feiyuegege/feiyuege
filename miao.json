@@ -1,13 +1,5 @@
 ﻿{
   "sites": [
-    {
-      "key": "阿房影视",
-      "name": "阿房影视",
-      "type": 0,
-      "api": "https://www.ysgc.cc/api.php/app/nav?token=",
-      "playUrl": ""
-      "categories": []
-    },
    {
       "key": "蘑菇资源",
       "name": "蘑菇资源",
