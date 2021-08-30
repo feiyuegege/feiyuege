@@ -1,6 +1,7 @@
 ﻿点播：
 蘑菇,http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml/,解析
 饭团,http://fantuan.wkfile.com/api.php/provide/vod/at/xml,解析
+郭慕涵,https://www.qinglyy.com/api.php/provide/vod/at/xml/,解析
 8090,http://zy.yilans.net:8090/api.php/provide/vod/at/xml/,解析
 1717,http://zy.itono.cn/inc/api.php,解析
 快播云g,http://www.kuaibozy.com/api.php/provide/vod/at/xml/,不解析
@@ -13,6 +14,7 @@ xml605g,http://www.605zy.co/inc/605m3u8.php,不解析
 xml天空g,https://caiji.tiankongapi.com/inc/api.php,不解析
 xml柚子g,http://tv.aitesucai.xyz/api.php/provide/vod/at/xml,解析
 xml百度g,https://cj.apibdzy.com/inc/api.php,不解析
+花椒,https://apihjzy.com/api.php/provide/vod/?ac=list,https://m3u8.hjimg9.com/dp/?url=
 结束
 
 解析：
@@ -21,7 +23,10 @@ OK,http://okjx.cc/?url=
 七哥,http://jx.mmkv.cn/tv.php?url=
 小蒋,https://www.kpezp.cn/jlexi.php?url=
 暮光,https://muguang.mgtv.com.muguangys.com/jiexi.php?url=
+弹幕,https://play.xing1.club/m3u8.php/?url=
+郭慕涵,https://www.qinglyy.com/m3u8/?url=
 parwix,https://jx.parwix.com:4433/player/?url=
+json花椒,https://m3u8.hjimg9.com/dp/?url=
 jsonm3u8,https://json.m3u8.tv:7788/json.php?url=
 jsonvodjx,https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url=
 OK,https://okjx.cc/?url=
