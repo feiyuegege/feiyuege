@@ -1,6 +1,10 @@
 ﻿点播：
 蘑菇,http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml/,解析
 饭团,http://fantuan.wkfile.com/api.php/provide/vod/at/xml,解析
+JSONHG,http://hgyx.vip/api.php/v1.vod/types,解析
+JSON追剧达人,http://vipmv.tv/api.php/app/nav?token=,解析
+JSON追剧猫,http://app.xkvideo.design/api.php/v1.vod/types,解析
+JSON新影视工厂,https://www.ysgc.cc/api.php/app/nav?token=,解析
 8090,http://zy.yilans.net:8090/api.php/provide/vod/at/xml/,解析
 1717,http://zy.itono.cn/inc/api.php,解析
 快播云g,http://www.kuaibozy.com/api.php/provide/vod/at/xml/,不解析
@@ -20,6 +24,10 @@ xml百度g,https://cj.apibdzy.com/inc/api.php,不解析
 OK,http://okjx.cc/?url=
 七哥,http://jx.mmkv.cn/tv.php?url=
 小蒋,https://www.kpezp.cn/jlexi.php?url=
+暮光,https://muguang.mgtv.com.muguangys.com/jiexi.php?url=
+parwix,https://jx.parwix.com:4433/player/?url=
+JSONm3u8,https://json.m3u8.tv:7788/json.php?url=
+JON.vodjx,https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url=
 OK,https://okjx.cc/?url=
 纯净,https://z1.m1907.cn/?jx=
 高速,https://jsap.attakids.com/?url=
