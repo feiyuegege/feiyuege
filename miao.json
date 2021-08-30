@@ -8,6 +8,14 @@
       "playUrl": "",
       "categories": []
     },
+   {
+      "key": "郭慕涵",
+      "name": "郭慕涵",
+      "type": 0,
+      "api": "https://www.qinglyy.com/api.php/provide/vod/at/xml/",
+      "playUrl": "",
+      "categories": []
+    },
     {
       "key": "饭团资源",
       "name": "饭团资源",
@@ -613,6 +621,14 @@
     {
       "name": "parwix",
       "url": "https://jx.parwix.com:4433/player/?url="
+    },
+    {
+      "name": "弹幕",
+      "url": "https://play.xing1.club/m3u8.php/?url="
+    },
+    {
+      "name": "郭慕涵",
+      "url": "https://www.qinglyy.com/m3u8/?url="
     },
     {
       "name": "JSONm3u8",
