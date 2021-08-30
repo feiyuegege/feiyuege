@@ -7,7 +7,7 @@
 88g,http://www.88zyw.net/inc/api.php,不解析
 39影视g,https://www.39kan.com/api.php/provide/vod/at/xml,不解析
 番茄g,http://api.fqzy.cc/api.php/provide/vod/at/xml,https://jx.fqzy.cc/jx.php?url=
-xmll红牛g,https://www.hongniuzy.com/inc/api.php,https://www.tutukiki.com/m3u8/?url=
+xml红牛g,https://www.hongniuzy.com/inc/api.php,https://www.tutukiki.com/m3u8/?url=
 xml北斗星g,https://v8.bdxzyapi.com/inc/api.php,不解析
 xml605g,http://www.605zy.co/inc/605m3u8.php,不解析
 xml天空g,https://caiji.tiankongapi.com/inc/api.php,不解析
@@ -22,8 +22,8 @@ OK,http://okjx.cc/?url=
 小蒋,https://www.kpezp.cn/jlexi.php?url=
 暮光,https://muguang.mgtv.com.muguangys.com/jiexi.php?url=
 parwix,https://jx.parwix.com:4433/player/?url=
-JSONm3u8,https://json.m3u8.tv:7788/json.php?url=
-JSONvodjx,https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url=
+jsonm3u8,https://json.m3u8.tv:7788/json.php?url=
+jsonvodjx,https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url=
 OK,https://okjx.cc/?url=
 纯净,https://z1.m1907.cn/?jx=
 高速,https://jsap.attakids.com/?url=
