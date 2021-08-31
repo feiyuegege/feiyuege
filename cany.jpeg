@@ -1,8 +1,12 @@
 ﻿点播：
 蘑菇,http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml/,解析
 饭团,http://fantuan.wkfile.com/api.php/provide/vod/at/xml,解析
+<<<<<<< HEAD
 郭慕涵,https://www.qinglyy.com/api.php/provide/vod/at/xml/,解析
 新影视工厂,https://www.ysgc.cc/api.php/app/video?tid=1&pg=1&token=,解析
+=======
+郭慕涵,http://www.qinglyy.com/api.php/provide/vod/at/xml/,解析
+>>>>>>> cace809e2cea25494419e4d89e2e81ed9512644b
 8090,http://zy.yilans.net:8090/api.php/provide/vod/at/xml/,解析
 1717,http://zy.itono.cn/inc/api.php,解析
 快播云g,http://www.kuaibozy.com/api.php/provide/vod/at/xml/,不解析
@@ -28,7 +32,6 @@ OK,http://okjx.cc/?url=
 parwix,https://jx.parwix.com:4433/player/?url=
 jsonm3u8,https://json.m3u8.tv:7788/json.php?url=
 jsonvodjx,https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url=
-OK,https://okjx.cc/?url=
 纯净,https://z1.m1907.cn/?jx=
 高速,https://jsap.attakids.com/?url=
 B站1,https://vip.parwix.com:4433/player/?url=
