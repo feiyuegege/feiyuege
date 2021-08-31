@@ -28,7 +28,7 @@
       "key": "红牛",
       "name": "红牛",
       "type": 0,
-      "api": "https://www.hongniuzy.com/inc/seacms.php",
+      "api": "https://www.hongniuzy.com/inc/api.php",
       "playUrl": "",
       "categories": []
     },
