@@ -2,6 +2,7 @@
 蘑菇,http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml/,解析
 饭团,http://fantuan.wkfile.com/api.php/provide/vod/at/xml,解析
 郭慕涵,https://www.qinglyy.com/api.php/provide/vod/at/xml/,解析
+红牛,https://www.hongniuzy.com/inc/seacms.php,解析
 8090,http://zy.yilans.net:8090/api.php/provide/vod/at/xml/,解析
 1717,http://zy.itono.cn/inc/api.php,解析
 快播云g,http://www.kuaibozy.com/api.php/provide/vod/at/xml/,不解析
@@ -21,6 +22,8 @@ xml百度g,https://cj.apibdzy.com/inc/api.php,不解析
 OK,http://okjx.cc/?url=
 七哥,http://jx.mmkv.cn/tv.php?url=
 小蒋,https://www.kpezp.cn/jlexi.php?url=
+自用,https://jx.iiiv.vip/?url=
+红牛,https://www.tutukiki.com/m3u8/?url=
 暮光,https://muguang.mgtv.com.muguangys.com/jiexi.php?url=
 弹幕,https://play.xing1.club/m3u8.php/?url=
 郭慕涵,https://www.qinglyy.com/m3u8/?url=
