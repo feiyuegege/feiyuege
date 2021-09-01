@@ -9,6 +9,14 @@
       "categories": []
     },
    {
+      "key": "2A",
+      "name": "2A",
+      "type": 0,
+      "api": "https://zy.zcocc.com/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "categories": []
+    },
+   {
       "key": "郭慕涵",
       "name": "郭慕涵",
       "type": 0,
@@ -621,6 +629,10 @@
     {
       "name": "七哥",
       "url": "http://jx.mmkv.cn/tv.php?url="
+    },
+    {
+      "name": "2A",
+      "url": "https://www.2ajx.com/vip.php?url="
     },
     {
       "name": "自用",
