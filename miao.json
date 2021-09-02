@@ -24,6 +24,21 @@
       "playUrl": "",
       "categories": []
     },
+       {
+      "key": "好好",
+      "name": "好好",
+      "type": 0,
+      "api": "https://haohaozy.com/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "categories": []
+    },   {
+      "key": "人人迷",
+      "name": "人人迷",
+      "type": 0,
+      "api": "https://kuu.renrenmi.cc/api.php/provide/vod/at/xml/",
+      "playUrl": "",
+      "categories": []
+    },
     {
       "key": "饭团资源",
       "name": "饭团资源",
