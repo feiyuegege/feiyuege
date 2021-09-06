@@ -695,7 +695,7 @@
     },
     {
       "name": "B站解析1",
-      "url": "https://vip.parwix.com:4433/player/?url="
+      "url": "http://jx.parwix.com:4433/player/analysis.php?v="
     },
     {
       "name": "B站解析2",
