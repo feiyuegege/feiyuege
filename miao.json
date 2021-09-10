@@ -635,7 +635,11 @@
   "parses": [
     {
       "name": "自用",
-      "url": "https://feiyue.rf.gd/jx/?url="
+      "url": "http://feiyue.rf.gd/jx/?v="
+    },
+    {
+      "name": "json自用",
+      "url": "http://feiyue.rf.gd/jx/video/?url="
     },
     {
       "name": "1717",
