@@ -21,7 +21,8 @@ xml百度g,http://cj.apibdzy.com/inc/api.php,解析
 结束
 
 解析：
-自用,http://feiyue.rf.gd/jx/?url=
+自用,http://feiyue.rf.gd/jx/?v=
+json自用,http://feiyue.rf.gd/jx/video/?url=
 1717,http://www.1717yun.com/jx/ty.php?url=
 OK,http://okjx.cc/?url=
 七哥,http://jx.mmkv.cn/tv.php?url=
