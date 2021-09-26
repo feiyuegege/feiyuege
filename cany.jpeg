@@ -20,9 +20,7 @@ xml柚子g,http://tv.aitesucai.xyz/api.php/provide/vod/at/xml,解析
 xml百度g,http://cj.apibdzy.com/inc/api.php,解析
 结束
 
-解析：
-json自用,http://feiyuege.unaux.com/jx/api.php?tp=checkPlay&url=
-自用2,http://feiyuege.unaux.com/jx/?url=
+自用2,http://feiyuege.tk/jx/?url=
 扶风,https://api.u1o.net/?url=
 M3U8,https://jx.m3u8.tv/jiexi/?url=
 思云,https://api.ap2p.cn/?url=
